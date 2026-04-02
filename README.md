@@ -165,6 +165,6 @@ Example Response:
 ```
 ##  Live Deployment
 ```
-🔗 [Live API Docs](https://churn-ml-inference-api.onrender.com/docs)
+https://churn-ml-inference-api.onrender.com/docs
 ```
 
