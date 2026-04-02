@@ -17,7 +17,7 @@ REST API using FastAPI, and deploy it in a reproducible way using Docker.
 ---
 
 ##  Problem Statement
-
+ 
 Customer churn prediction is a common real-world machine learning problem.
 Given customer attributes such as credit score, age, balance, and activity
 status, the system predicts whether a customer is likely to churn.
