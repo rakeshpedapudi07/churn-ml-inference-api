@@ -24,15 +24,6 @@ status, the system predicts whether a customer is likely to churn.
 
 ---
 
-##  Tech Stack
-
-- **Language:** Python
-- **Machine Learning:** scikit-learn
-- **API Framework:** FastAPI
-- **Containerization:** Docker
-- **Runtime:** Uvicorn
-
----
 ## How It Works
 
 ```mermaid
@@ -81,6 +72,16 @@ sequenceDiagram
     M-->>A: Prediction
     A-->>U: JSON Response
 ```
+---
+
+##  Tech Stack
+
+- **Language:** Python
+- **Machine Learning:** scikit-learn
+- **API Framework:** FastAPI
+- **Containerization:** Docker
+- **Runtime:** Uvicorn
+
 ---
 ## Project Structure (Visual)
 
@@ -164,6 +165,6 @@ Example Response:
 ```
 ##  Live Deployment
 ```
-https://churn-ml-inference-api.onrender.com/docs
+🔗 [Live API Docs](https://churn-ml-inference-api.onrender.com/docs)
 ```
 
