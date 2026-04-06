@@ -3,7 +3,7 @@
 An end-to-end machine learning inference system for predicting customer churn.
 The project demonstrates how to train a machine learning model, expose it as a
 REST API using FastAPI, and deploy it in a reproducible way using Docker.
-
+ 
 ---
 
 ##  Features
