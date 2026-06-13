@@ -10,7 +10,7 @@ REST API using FastAPI, and deploy it in a reproducible way using Docker.
 
 - End-to-end ML pipeline (data preprocessing → model training → inference)
 - Trained classification model using scikit-learn
-- FastAPI-based REST API for real-time predictions
+- FastAPI-based REST API for real-time predictions  
 - Input validation using Pydantic schemas
 - Fully containerized with Docker for portability and reproducibility
 
