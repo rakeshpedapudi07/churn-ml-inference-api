@@ -15,7 +15,7 @@ REST API using FastAPI, and deploy it in a reproducible way using Docker.
 - Fully containerized with Docker for portability and reproducibility
 
 ---
-
+  
 ##  Problem Statement
  
 Customer churn prediction is a common real-world machine learning problem.
