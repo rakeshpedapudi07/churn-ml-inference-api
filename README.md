@@ -6,7 +6,7 @@ REST API using FastAPI, and deploy it in a reproducible way using Docker.
  
 ---  
 
-##  Features
+##  Features   
     
 - End-to-end ML pipeline (data preprocessing → model training → inference)
 - Trained classification model using scikit-learn
